@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17511" systemVersion="19H2" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="HandMO" representedClassName="HandMO" syncable="YES" codeGenerationType="class">
+        <attribute name="card1" optional="YES" attributeType="String"/>
+        <attribute name="card2" optional="YES" attributeType="String"/>
+        <attribute name="dealerCard" optional="YES" attributeType="String"/>
+        <attribute name="move" optional="YES" attributeType="String"/>
+        <attribute name="percentCorrect" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="timesAttempted" optional="YES" attributeType="Double" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="timesCorrect" optional="YES" attributeType="Double" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="HandMO" positionX="-63" positionY="-18" width="128" height="148"/>
+    </elements>
+</model>

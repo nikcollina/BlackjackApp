@@ -1,0 +1,6788 @@
+[
+ {
+   "card1": "2",
+   "card2": "2",
+   "dealerCard": "2",
+   "move": "Split",
+ },
+ {
+   "card1": "2",
+   "card2": "2",
+   "dealerCard": "3",
+   "move": "Split"
+ },
+ {
+   "card1": "2",
+   "card2": "2",
+   "dealerCard": "4",
+   "move": "Split"
+ },
+ {
+   "card1": "2",
+   "card2": "2",
+   "dealerCard": "5",
+   "move": "Split"
+ },
+ {
+   "card1": "2",
+   "card2": "2",
+   "dealerCard": "6",
+   "move": "Split"
+ },
+ {
+   "card1": "2",
+   "card2": "2",
+   "dealerCard": "7",
+   "move": "Split"
+ },
+ {
+   "card1": "2",
+   "card2": "2",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "2",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "2",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "2",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "2",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "2",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "2",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "3",
+   "dealerCard": "2",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "3",
+   "dealerCard": "3",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "3",
+   "dealerCard": "4",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "3",
+   "dealerCard": "5",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "3",
+   "dealerCard": "6",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "3",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "3",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "3",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "3",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "3",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "3",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "3",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "3",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "4",
+   "dealerCard": "2",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "4",
+   "dealerCard": "3",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "4",
+   "dealerCard": "4",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "4",
+   "dealerCard": "5",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "4",
+   "dealerCard": "6",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "4",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "4",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "4",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "4",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "4",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "4",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "4",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "4",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "5",
+   "dealerCard": "2",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "5",
+   "dealerCard": "3",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "5",
+   "dealerCard": "4",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "5",
+   "dealerCard": "5",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "5",
+   "dealerCard": "6",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "5",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "5",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "5",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "5",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "5",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "5",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "5",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "5",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "6",
+   "dealerCard": "2",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "6",
+   "dealerCard": "3",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "6",
+   "dealerCard": "4",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "6",
+   "dealerCard": "5",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "6",
+   "dealerCard": "6",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "6",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "6",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "6",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "6",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "6",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "6",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "6",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "6",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "7",
+   "dealerCard": "2",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "7",
+   "dealerCard": "3",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "7",
+   "dealerCard": "4",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "7",
+   "dealerCard": "5",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "7",
+   "dealerCard": "6",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "7",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "7",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "7",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "7",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "7",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "7",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "7",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "7",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "8",
+   "dealerCard": "2",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "8",
+   "dealerCard": "3",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "8",
+   "dealerCard": "4",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "8",
+   "dealerCard": "5",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "8",
+   "dealerCard": "6",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "8",
+   "dealerCard": "7",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "8",
+   "dealerCard": "8",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "8",
+   "dealerCard": "9",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "8",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "8",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "8",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "8",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "8",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "9",
+   "dealerCard": "2",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "9",
+   "dealerCard": "3",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "9",
+   "dealerCard": "4",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "9",
+   "dealerCard": "5",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "9",
+   "dealerCard": "6",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "9",
+   "dealerCard": "7",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "9",
+   "dealerCard": "8",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "9",
+   "dealerCard": "9",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "9",
+   "dealerCard": "10",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "9",
+   "dealerCard": "J",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "9",
+   "dealerCard": "Q",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "9",
+   "dealerCard": "K",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "",
+   "dealerCard": "A",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "2",
+   "card2": "10",
+   "dealerCard": "2",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "10",
+   "dealerCard": "3",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "10",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "2",
+   "card2": "10",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "2",
+   "card2": "10",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "2",
+   "card2": "10",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "10",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "10",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "10",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "10",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "10",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "10",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "10",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "J",
+   "dealerCard": "2",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "J",
+   "dealerCard": "3",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "J",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "2",
+   "card2": "J",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "2",
+   "card2": "J",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "2",
+   "card2": "J",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "J",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "J",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "J",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "J",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "J",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "J",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "J",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "Q",
+   "dealerCard": "2",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "Q",
+   "dealerCard": "3",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "Q",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "2",
+   "card2": "Q",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "2",
+   "card2": "Q",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "2",
+   "card2": "Q",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "Q",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "Q",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "Q",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "Q",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "Q",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "Q",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "Q",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "K",
+   "dealerCard": "2",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "K",
+   "dealerCard": "3",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "K",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "2",
+   "card2": "K",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "2",
+   "card2": "K",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "2",
+   "card2": "K",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "K",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "K",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "K",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "K",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "K",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "K",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "2",
+   "card2": "K",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "3",
+   "dealerCard": "2",
+   "move": "Split"
+ },
+ {
+   "card1": "3",
+   "card2": "3",
+   "dealerCard": "3",
+   "move": "Split"
+ },
+ {
+   "card1": "3",
+   "card2": "3",
+   "dealerCard": "4",
+   "move": "Split"
+ },
+ {
+   "card1": "3",
+   "card2": "3",
+   "dealerCard": "5",
+   "move": "Split"
+ },
+ {
+   "card1": "3",
+   "card2": "3",
+   "dealerCard": "6",
+   "move": "Split"
+ },
+ {
+   "card1": "3",
+   "card2": "3",
+   "dealerCard": "7",
+   "move": "Split"
+ },
+ {
+   "card1": "3",
+   "card2": "3",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "3",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "3",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "3",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "3",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "3",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "3",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "4",
+   "dealerCard": "2",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "4",
+   "dealerCard": "3",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "4",
+   "dealerCard": "4",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "4",
+   "dealerCard": "5",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "4",
+   "dealerCard": "6",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "4",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "4",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "4",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "4",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "4",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "4",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "4",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "4",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "5",
+   "dealerCard": "2",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "5",
+   "dealerCard": "3",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "5",
+   "dealerCard": "4",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "5",
+   "dealerCard": "5",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "5",
+   "dealerCard": "6",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "5",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "5",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "5",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "5",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "5",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "5",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "5",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "5",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "6",
+   "dealerCard": "2",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "6",
+   "dealerCard": "3",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "6",
+   "dealerCard": "4",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "6",
+   "dealerCard": "5",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "6",
+   "dealerCard": "6",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "6",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "6",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "6",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "6",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "6",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "6",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "6",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "6",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "7",
+   "dealerCard": "2",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "7",
+   "dealerCard": "3",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "7",
+   "dealerCard": "4",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "7",
+   "dealerCard": "5",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "7",
+   "dealerCard": "6",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "7",
+   "dealerCard": "7",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "7",
+   "dealerCard": "8",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "7",
+   "dealerCard": "9",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "7",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "7",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "7",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "7",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "7",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "8",
+   "dealerCard": "2",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "8",
+   "dealerCard": "3",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "8",
+   "dealerCard": "4",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "8",
+   "dealerCard": "5",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "8",
+   "dealerCard": "6",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "8",
+   "dealerCard": "7",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "8",
+   "dealerCard": "8",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "8",
+   "dealerCard": "9",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "8",
+   "dealerCard": "10",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "8",
+   "dealerCard": "J",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "8",
+   "dealerCard": "Q",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "8",
+   "dealerCard": "K",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "8",
+   "dealerCard": "A",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "3",
+   "card2": "9",
+   "dealerCard": "2",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "9",
+   "dealerCard": "3",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "9",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "3",
+   "card2": "9",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "3",
+   "card2": "9",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "3",
+   "card2": "9",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "9",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "9",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "9",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "9",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "9",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "9",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "9",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "10",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "3",
+   "card2": "10",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "3",
+   "card2": "10",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "3",
+   "card2": "10",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "3",
+   "card2": "10",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "3",
+   "card2": "10",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "10",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "10",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "10",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "10",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "10",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "10",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "10",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "J",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "3",
+   "card2": "J",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "3",
+   "card2": "J",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "3",
+   "card2": "J",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "3",
+   "card2": "J",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "3",
+   "card2": "J",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "J",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "J",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "J",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "J",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "J",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "J",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "J",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "Q",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "3",
+   "card2": "Q",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "3",
+   "card2": "Q",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "3",
+   "card2": "Q",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "3",
+   "card2": "Q",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "3",
+   "card2": "Q",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "Q",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "Q",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "Q",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "Q",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "Q",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "Q",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "Q",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "K",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "3",
+   "card2": "K",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "3",
+   "card2": "K",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "3",
+   "card2": "K",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "3",
+   "card2": "K",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "3",
+   "card2": "K",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "K",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "K",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "K",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "K",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "K",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "K",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "3",
+   "card2": "K",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "4",
+   "dealerCard": "2",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "4",
+   "dealerCard": "3",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "4",
+   "dealerCard": "4",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "4",
+   "dealerCard": "5",
+   "move": "Split"
+ },
+ {
+   "card1": "4",
+   "card2": "4",
+   "dealerCard": "6",
+   "move": "Split"
+ },
+ {
+   "card1": "4",
+   "card2": "4",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "4",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "4",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "4",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "4",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "4",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "4",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "4",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "5",
+   "dealerCard": "2",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "5",
+   "dealerCard": "3",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "5",
+   "dealerCard": "4",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "5",
+   "dealerCard": "5",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "5",
+   "dealerCard": "6",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "5",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "5",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "5",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "5",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "5",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "5",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "5",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "5",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "6",
+   "dealerCard": "2",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "6",
+   "dealerCard": "3",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "6",
+   "dealerCard": "4",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "6",
+   "dealerCard": "5",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "6",
+   "dealerCard": "6",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "6",
+   "dealerCard": "7",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "6",
+   "dealerCard": "8",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "6",
+   "dealerCard": "9",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "6",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "6",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "6",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "6",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "6",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "7",
+   "dealerCard": "2",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "7",
+   "dealerCard": "3",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "7",
+   "dealerCard": "4",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "7",
+   "dealerCard": "5",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "7",
+   "dealerCard": "6",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "7",
+   "dealerCard": "7",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "7",
+   "dealerCard": "8",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "7",
+   "dealerCard": "9",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "7",
+   "dealerCard": "10",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "7",
+   "dealerCard": "J",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "7",
+   "dealerCard": "Q",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "7",
+   "dealerCard": "K",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "7",
+   "dealerCard": "A",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "4",
+   "card2": "8",
+   "dealerCard": "2",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "8",
+   "dealerCard": "3",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "8",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "8",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "8",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "8",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "8",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "8",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "8",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "8",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "8",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "8",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "8",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "9",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "9",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "9",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "9",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "9",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "9",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "9",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "9",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "9",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "9",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "9",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "9",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "9",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "10",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "10",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "10",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "10",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "10",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "10",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "10",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "10",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "10",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "10",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "10",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "10",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "10",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "J",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "J",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "J",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "J",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "J",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "J",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "J",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "J",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "J",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "J",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "J",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "J",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "J",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "Q",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "Q",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "Q",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "Q",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "Q",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "Q",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "Q",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "Q",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "Q",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "Q",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "Q",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "Q",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "Q",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "K",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "K",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "K",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "K",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "K",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "4",
+   "card2": "K",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "K",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "K",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "K",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "K",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "K",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "K",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "4",
+   "card2": "K",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "5",
+   "dealerCard": "2",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "5",
+   "card2": "5",
+   "dealerCard": "3",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "5",
+   "card2": "5",
+   "dealerCard": "4",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "5",
+   "card2": "5",
+   "dealerCard": "5",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "5",
+   "card2": "5",
+   "dealerCard": "6",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "5",
+   "card2": "5",
+   "dealerCard": "7",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "5",
+   "card2": "5",
+   "dealerCard": "8",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "5",
+   "card2": "5",
+   "dealerCard": "9",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "5",
+   "card2": "5",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "5",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "5",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "5",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "5",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "6",
+   "dealerCard": "2",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "5",
+   "card2": "6",
+   "dealerCard": "3",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "5",
+   "card2": "6",
+   "dealerCard": "4",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "5",
+   "card2": "6",
+   "dealerCard": "5",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "5",
+   "card2": "6",
+   "dealerCard": "6",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "5",
+   "card2": "6",
+   "dealerCard": "7",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "5",
+   "card2": "6",
+   "dealerCard": "8",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "5",
+   "card2": "6",
+   "dealerCard": "9",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "5",
+   "card2": "6",
+   "dealerCard": "10",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "5",
+   "card2": "6",
+   "dealerCard": "J",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "5",
+   "card2": "6",
+   "dealerCard": "Q",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "5",
+   "card2": "6",
+   "dealerCard": "K",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "5",
+   "card2": "6",
+   "dealerCard": "A",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "5",
+   "card2": "7",
+   "dealerCard": "2",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "7",
+   "dealerCard": "3",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "7",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "7",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "7",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "7",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "7",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "7",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "7",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "7",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "7",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "7",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "7",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "8",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "8",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "8",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "8",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "8",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "8",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "8",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "8",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "8",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "8",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "8",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "8",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "8",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "9",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "9",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "9",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "9",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "9",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "9",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "9",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "9",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "9",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "9",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "9",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "9",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "9",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "10",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "10",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "10",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "10",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "10",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "10",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "10",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "10",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "10",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "10",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "10",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "10",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "10",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "J",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "J",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "J",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "J",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "J",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "J",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "J",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "J",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "J",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "J",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "J",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "J",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "J",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "Q",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "Q",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "Q",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "Q",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "Q",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "Q",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "Q",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "Q",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "Q",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "Q",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "Q",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "Q",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "Q",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "K",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "K",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "K",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "K",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "K",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "5",
+   "card2": "K",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "K",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "K",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "K",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "K",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "K",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "K",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "5",
+   "card2": "K",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "6",
+   "dealerCard": "2",
+   "move": "Split"
+ },
+ {
+   "card1": "6",
+   "card2": "6",
+   "dealerCard": "3",
+   "move": "Split"
+ },
+ {
+   "card1": "6",
+   "card2": "6",
+   "dealerCard": "4",
+   "move": "Split"
+ },
+ {
+   "card1": "6",
+   "card2": "6",
+   "dealerCard": "5",
+   "move": "Split"
+ },
+ {
+   "card1": "6",
+   "card2": "6",
+   "dealerCard": "6",
+   "move": "Split"
+ },
+ {
+   "card1": "6",
+   "card2": "6",
+   "dealerCard": "7",
+   "move": "Split"
+ },
+ {
+   "card1": "6",
+   "card2": "6",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "6",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "6",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "6",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "6",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "6",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "6",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "7",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "7",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "7",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "7",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "7",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "7",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "7",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "7",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "7",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "7",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "7",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "7",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "7",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "8",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "8",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "8",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "8",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "8",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "8",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "8",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "8",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "8",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "8",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "8",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "8",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "8",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "9",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "9",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "9",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "9",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "9",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "9",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "9",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "9",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "9",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "9",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "9",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "9",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "9",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "10",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "10",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "10",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "10",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "10",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "10",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "10",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "10",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "10",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "10",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "10",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "10",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "10",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "J",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "J",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "J",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "J",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "J",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "J",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "J",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "J",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "J",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "J",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "J",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "J",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "J",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "Q",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "Q",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "Q",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "Q",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "Q",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "Q",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "Q",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "Q",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "Q",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "Q",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "Q",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "Q",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "Q",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "K",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "K",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "K",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "K",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "K",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "6",
+   "card2": "K",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "K",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "K",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "K",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "K",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "K",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "K",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "6",
+   "card2": "K",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "7",
+   "card2": "7",
+   "dealerCard": "2",
+   "move": "Split"
+ },
+ {
+   "card1": "7",
+   "card2": "7",
+   "dealerCard": "3",
+   "move": "Split"
+ },
+ {
+   "card1": "7",
+   "card2": "7",
+   "dealerCard": "4",
+   "move": "Split"
+ },
+ {
+   "card1": "7",
+   "card2": "7",
+   "dealerCard": "5",
+   "move": "Split"
+ },
+ {
+   "card1": "7",
+   "card2": "7",
+   "dealerCard": "6",
+   "move": "Split"
+ },
+ {
+   "card1": "7",
+   "card2": "7",
+   "dealerCard": "7",
+   "move": "Split"
+ },
+ {
+   "card1": "7",
+   "card2": "7",
+   "dealerCard": "8",
+   "move": "Split"
+ },
+ {
+   "card1": "7",
+   "card2": "7",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "7",
+   "card2": "7",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "7",
+   "card2": "7",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "7",
+   "card2": "7",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "7",
+   "card2": "7",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "7",
+   "card2": "7",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "7",
+   "card2": "8",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "8",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "8",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "8",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "8",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "8",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "7",
+   "card2": "8",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "7",
+   "card2": "8",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "7",
+   "card2": "8",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "7",
+   "card2": "8",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "7",
+   "card2": "8",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "7",
+   "card2": "8",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "7",
+   "card2": "8",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "7",
+   "card2": "9",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "9",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "9",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "9",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "9",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "9",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "7",
+   "card2": "9",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "7",
+   "card2": "9",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "7",
+   "card2": "9",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "7",
+   "card2": "9",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "7",
+   "card2": "9",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "7",
+   "card2": "9",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "7",
+   "card2": "9",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "7",
+   "card2": "10",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "10",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "10",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "10",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "10",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "10",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "10",
+   "dealerCard": "8",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "10",
+   "dealerCard": "9",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "10",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "10",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "10",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "10",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "10",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "J",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "J",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "J",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "J",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "J",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "J",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "J",
+   "dealerCard": "8",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "J",
+   "dealerCard": "9",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "J",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "J",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "J",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "J",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "J",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "Q",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "Q",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "Q",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "Q",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "Q",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "Q",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "Q",
+   "dealerCard": "8",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "Q",
+   "dealerCard": "9",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "Q",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "Q",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "Q",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "Q",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "Q",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "K",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "K",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "K",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "K",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "K",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "K",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "K",
+   "dealerCard": "8",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "K",
+   "dealerCard": "9",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "K",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "K",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "K",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "K",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "7",
+   "card2": "K",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "8",
+   "dealerCard": "2",
+   "move": "Split"
+ },
+ {
+   "card1": "8",
+   "card2": "8",
+   "dealerCard": "3",
+   "move": "Split"
+ },
+ {
+   "card1": "8",
+   "card2": "8",
+   "dealerCard": "4",
+   "move": "Split"
+ },
+ {
+   "card1": "8",
+   "card2": "8",
+   "dealerCard": "5",
+   "move": "Split"
+ },
+ {
+   "card1": "8",
+   "card2": "8",
+   "dealerCard": "6",
+   "move": "Split"
+ },
+ {
+   "card1": "8",
+   "card2": "8",
+   "dealerCard": "7",
+   "move": "Split"
+ },
+ {
+   "card1": "8",
+   "card2": "8",
+   "dealerCard": "8",
+   "move": "Split"
+ },
+ {
+   "card1": "8",
+   "card2": "8",
+   "dealerCard": "9",
+   "move": "Split"
+ },
+ {
+   "card1": "8",
+   "card2": "8",
+   "dealerCard": "10",
+   "move": "Split"
+ },
+ {
+   "card1": "8",
+   "card2": "8",
+   "dealerCard": "J",
+   "move": "Split"
+ },
+ {
+   "card1": "8",
+   "card2": "8",
+   "dealerCard": "Q",
+   "move": "Split"
+ },
+ {
+   "card1": "8",
+   "card2": "8",
+   "dealerCard": "K",
+   "move": "Split"
+ },
+ {
+   "card1": "8",
+   "card2": "8",
+   "dealerCard": "A",
+   "move": "Split"
+ },
+ {
+   "card1": "8",
+   "card2": "9",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "9",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "9",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "9",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "9",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "9",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "9",
+   "dealerCard": "8",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "9",
+   "dealerCard": "9",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "9",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "9",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "9",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "9",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "9",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "10",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "10",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "10",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "10",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "10",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "10",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "10",
+   "dealerCard": "8",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "10",
+   "dealerCard": "9",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "10",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "10",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "10",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "10",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "10",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "J",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "J",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "J",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "J",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "J",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "J",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "J",
+   "dealerCard": "8",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "J",
+   "dealerCard": "9",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "J",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "J",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "J",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "J",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "J",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "Q",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "Q",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "Q",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "Q",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "Q",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "Q",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "Q",
+   "dealerCard": "8",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "Q",
+   "dealerCard": "9",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "Q",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "Q",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "Q",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "Q",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "Q",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "K",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "K",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "K",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "K",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "K",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "K",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "K",
+   "dealerCard": "8",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "K",
+   "dealerCard": "9",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "K",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "K",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "K",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "K",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "8",
+   "card2": "K",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "9",
+   "dealerCard": "2",
+   "move": "Split"
+ },
+ {
+   "card1": "9",
+   "card2": "9",
+   "dealerCard": "3",
+   "move": "Split"
+ },
+ {
+   "card1": "9",
+   "card2": "9",
+   "dealerCard": "4",
+   "move": "Split"
+ },
+ {
+   "card1": "9",
+   "card2": "9",
+   "dealerCard": "5",
+   "move": "Split"
+ },
+ {
+   "card1": "9",
+   "card2": "9",
+   "dealerCard": "6",
+   "move": "Split"
+ },
+ {
+   "card1": "9",
+   "card2": "9",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "9",
+   "dealerCard": "8",
+   "move": "Split"
+ },
+ {
+   "card1": "9",
+   "card2": "9",
+   "dealerCard": "9",
+   "move": "Split"
+ },
+ {
+   "card1": "9",
+   "card2": "9",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "9",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "9",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "9",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "9",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "10",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "10",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "10",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "10",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "10",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "10",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "10",
+   "dealerCard": "8",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "10",
+   "dealerCard": "9",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "10",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "10",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "10",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "10",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "10",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "J",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "J",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "J",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "J",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "J",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "J",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "J",
+   "dealerCard": "8",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "J",
+   "dealerCard": "9",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "J",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "J",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "J",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "J",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "J",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "Q",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "Q",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "Q",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "Q",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "Q",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "Q",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "Q",
+   "dealerCard": "8",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "Q",
+   "dealerCard": "9",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "Q",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "Q",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "Q",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "Q",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "Q",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "K",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "K",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "K",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "K",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "K",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "K",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "K",
+   "dealerCard": "8",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "K",
+   "dealerCard": "9",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "K",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "K",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "K",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "K",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "9",
+   "card2": "K",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "10",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "10",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "10",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "10",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "10",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "10",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "10",
+   "dealerCard": "8",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "10",
+   "dealerCard": "9",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "10",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "10",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "10",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "10",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "10",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "J",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "J",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "J",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "J",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "J",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "J",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "J",
+   "dealerCard": "8",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "J",
+   "dealerCard": "9",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "J",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "J",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "J",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "J",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "J",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "Q",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "Q",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "Q",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "Q",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "Q",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "Q",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "Q",
+   "dealerCard": "8",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "Q",
+   "dealerCard": "9",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "Q",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "Q",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "Q",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "Q",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "Q",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "K",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "K",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "K",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "K",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "K",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "K",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "K",
+   "dealerCard": "8",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "K",
+   "dealerCard": "9",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "K",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "K",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "K",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "K",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "10",
+   "card2": "K",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "J",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "J",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "J",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "J",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "J",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "J",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "J",
+   "dealerCard": "8",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "J",
+   "dealerCard": "9",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "J",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "J",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "J",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "J",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "J",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "Q",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "Q",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "Q",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "Q",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "Q",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "Q",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "Q",
+   "dealerCard": "8",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "Q",
+   "dealerCard": "9",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "Q",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "Q",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "Q",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "Q",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "Q",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "K",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "K",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "K",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "K",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "K",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "K",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "K",
+   "dealerCard": "8",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "K",
+   "dealerCard": "9",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "K",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "K",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "K",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "K",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "J",
+   "card2": "K",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "Q",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "Q",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "Q",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "Q",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "Q",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "Q",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "Q",
+   "dealerCard": "8",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "Q",
+   "dealerCard": "9",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "Q",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "Q",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "Q",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "Q",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "Q",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "K",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "K",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "K",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "K",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "K",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "K",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "K",
+   "dealerCard": "8",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "K",
+   "dealerCard": "9",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "K",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "K",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "K",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "K",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "Q",
+   "card2": "K",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "K",
+   "card2": "K",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "K",
+   "card2": "K",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "K",
+   "card2": "K",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "K",
+   "card2": "K",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "K",
+   "card2": "K",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "K",
+   "card2": "K",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "K",
+   "card2": "K",
+   "dealerCard": "8",
+   "move": "Stand"
+ },
+ {
+   "card1": "K",
+   "card2": "K",
+   "dealerCard": "9",
+   "move": "Stand"
+ },
+ {
+   "card1": "K",
+   "card2": "K",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "K",
+   "card2": "K",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "K",
+   "card2": "K",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "K",
+   "card2": "K",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "K",
+   "card2": "K",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "2",
+   "dealerCard": "2",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "2",
+   "dealerCard": "3",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "2",
+   "dealerCard": "4",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "2",
+   "dealerCard": "5",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "A",
+   "card2": "2",
+   "dealerCard": "6",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "A",
+   "card2": "2",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "2",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "2",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "2",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "2",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "2",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "2",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "2",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "3",
+   "dealerCard": "2",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "3",
+   "dealerCard": "3",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "3",
+   "dealerCard": "4",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "A",
+   "card2": "3",
+   "dealerCard": "5",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "A",
+   "card2": "3",
+   "dealerCard": "6",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "A",
+   "card2": "3",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "3",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "3",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "3",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "3",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "3",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "3",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "3",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "4",
+   "dealerCard": "2",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "4",
+   "dealerCard": "3",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "4",
+   "dealerCard": "4",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "A",
+   "card2": "4",
+   "dealerCard": "5",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "A",
+   "card2": "4",
+   "dealerCard": "6",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "A",
+   "card2": "4",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "4",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "4",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "4",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "4",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "4",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "4",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "4",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "5",
+   "dealerCard": "2",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "5",
+   "dealerCard": "3",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "5",
+   "dealerCard": "4",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "A",
+   "card2": "5",
+   "dealerCard": "5",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "A",
+   "card2": "5",
+   "dealerCard": "6",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "A",
+   "card2": "5",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "5",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "5",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "5",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "5",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "5",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "5",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "5",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "6",
+   "dealerCard": "2",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "6",
+   "dealerCard": "3",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "A",
+   "card2": "6",
+   "dealerCard": "4",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "A",
+   "card2": "6",
+   "dealerCard": "5",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "A",
+   "card2": "6",
+   "dealerCard": "6",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "A",
+   "card2": "6",
+   "dealerCard": "7",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "6",
+   "dealerCard": "8",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "6",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "6",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "6",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "6",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "6",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "6",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "7",
+   "dealerCard": "2",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "A",
+   "card2": "7",
+   "dealerCard": "3",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "A",
+   "card2": "7",
+   "dealerCard": "4",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "A",
+   "card2": "7",
+   "dealerCard": "5",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "A",
+   "card2": "7",
+   "dealerCard": "6",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "A",
+   "card2": "7",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "7",
+   "dealerCard": "8",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "7",
+   "dealerCard": "9",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "7",
+   "dealerCard": "10",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "7",
+   "dealerCard": "J",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "7",
+   "dealerCard": "Q",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "7",
+   "dealerCard": "K",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "7",
+   "dealerCard": "A",
+   "move": "Hit"
+ },
+ {
+   "card1": "A",
+   "card2": "8",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "8",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "8",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "8",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "8",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "8",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "8",
+   "dealerCard": "8",
+   "move": "Double\nDown"
+ },
+ {
+   "card1": "A",
+   "card2": "8",
+   "dealerCard": "9",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "8",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "8",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "8",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "8",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "8",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "9",
+   "dealerCard": "2",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "9",
+   "dealerCard": "3",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "9",
+   "dealerCard": "4",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "9",
+   "dealerCard": "5",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "9",
+   "dealerCard": "6",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "9",
+   "dealerCard": "7",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "9",
+   "dealerCard": "8",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "9",
+   "dealerCard": "9",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "9",
+   "dealerCard": "10",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "9",
+   "dealerCard": "J",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "9",
+   "dealerCard": "Q",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "9",
+   "dealerCard": "K",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "9",
+   "dealerCard": "A",
+   "move": "Stand"
+ },
+ {
+   "card1": "A",
+   "card2": "A",
+   "dealerCard": "2",
+   "move": "Split"
+ },
+ {
+   "card1": "A",
+   "card2": "A",
+   "dealerCard": "3",
+   "move": "Split"
+ },
+ {
+   "card1": "A",
+   "card2": "A",
+   "dealerCard": "4",
+   "move": "Split"
+ },
+ {
+   "card1": "A",
+   "card2": "A",
+   "dealerCard": "5",
+   "move": "Split"
+ },
+ {
+   "card1": "A",
+   "card2": "A",
+   "dealerCard": "6",
+   "move": "Split"
+ },
+ {
+   "card1": "A",
+   "card2": "A",
+   "dealerCard": "7",
+   "move": "Split"
+ },
+ {
+   "card1": "A",
+   "card2": "A",
+   "dealerCard": "8",
+   "move": "Split"
+ },
+ {
+   "card1": "A",
+   "card2": "A",
+   "dealerCard": "9",
+   "move": "Split"
+ },
+ {
+   "card1": "A",
+   "card2": "A",
+   "dealerCard": "10",
+   "move": "Split"
+ },
+ {
+   "card1": "A",
+   "card2": "A",
+   "dealerCard": "J",
+   "move": "Split"
+ },
+ {
+   "card1": "A",
+   "card2": "A",
+   "dealerCard": "Q",
+   "move": "Split"
+ },
+ {
+   "card1": "A",
+   "card2": "A",
+   "dealerCard": "K",
+   "move": "Split"
+ },
+ {
+   "card1": "A",
+   "card2": "A",
+   "dealerCard": "A",
+   "move": "Split"
+ }
+]
